@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">VolunteeringApp</string>
+  <style name="DurWhite" parent="@android:style/Theme.Material.Light.DarkActionBar">
+    <item name="android:colorPrimary">#7E317B</item>
+    <item name="android:windowActionBar">false</item>
+    <item name="android:windowNoTitle">true</item>
+  </style>
+</resources>
